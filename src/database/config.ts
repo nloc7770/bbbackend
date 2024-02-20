@@ -1,4 +1,3 @@
-
 export const databaseConfig = () => ({
   database: {
     host: process.env.DATABASE_HOST,
